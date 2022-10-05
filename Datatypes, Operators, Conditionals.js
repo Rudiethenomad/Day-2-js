@@ -116,9 +116,11 @@ console.log (name1!==name2)
 */
 
 /* 
-let x = (9)
 
-
+let x = 9
+let y = "nine"
+if (x===9) {y}
+console.log (y)
 
 */
 
@@ -127,4 +129,9 @@ let x = (9)
  try to search it by yourself, tomorrow morning we'll discuss it together!)
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* 
+let age = 60
+let socialSecurity = age >= 65 ? "pension" : "noPension"
+console.log (socialSecurity)
+
+*/

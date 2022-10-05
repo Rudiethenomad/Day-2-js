@@ -82,3 +82,12 @@ let name2 = "John"
 console.log (name1===name2)
 console.log (name1!==name2)
 */
+/*
+let x = 9
+let y = "nine"
+if (x===9) {y}
+console.log (y)
+*/
+let age = 60
+let socialSecurity = age >= 65 ? "pension" : "noPension"
+console.log (socialSecurity)
